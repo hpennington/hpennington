@@ -1,5 +1,5 @@
 
-- 😄 Swift | TypeScript | Python | Php | C | C++ | Rust
+- 😄 Swift | TypeScript | Python | Php | C | C++
 <!--
 **hpennington/hpennington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
