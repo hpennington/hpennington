@@ -1,5 +1,4 @@
-
-- 😄 Swift | Rust | TypeScript | Python
+😄 Swift | Rust | TypeScript | Python
 
 - iOS Engineer, market-ready specialist
 - Thrives on developing impactful, long-lasting technology
