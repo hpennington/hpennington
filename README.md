@@ -1,6 +1,12 @@
 😄 Swift | Rust | TypeScript | Python
 
-[Portfolio website link](https://haydenpennington.tech)
+## Quck Links
+
+[Portfolio Website](https://haydenpennington.tech)
+
+[UndertonesAI](https://www.undertones.ai)
+
+[Graphnote](https://www.graphnote.app)
 
 - iOS Engineer, market-ready specialist
 - Thrives on developing impactful, long-lasting technology
