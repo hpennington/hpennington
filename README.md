@@ -16,41 +16,35 @@
 ![vo](https://github.com/hpennington/mono-visual-odometry/raw/main/point_cloud.gif)
 
 
-(iOS | Computer Vision | Web | Embedded) Engineer
+#### (iOS | Computer Vision | Web | Embedded) Engineer
 
-"My professional ambition is deeply intertwined with my personal passion for creation. From the harmonies of music to the precision of hardware and the abstract nature of software, I see endless possibilities to innovate and create.”
+"My professional ambition is deeply intertwined with my personal passion for creation. From the orchestration of music, to the precision of hardware, and the abstract nature of software, I see endless possibilities to innovate and create.”
 
 Hayden stands out as a skilled iOS Engineer with a solid background in Swift, Rust, and Python. A passion for entrepreneurship drives his momentum and trajectory. Hayden’s career is characterized by his ability to produce end-to-end software solutions, and his dedication to workplace visibility, teamwork, and mentorship.
 
-Focus 
- • Data heavy applications 
- • Intuitive and delightful user experiences
- • Reliability and maintainability
- • Computer Vision
- • Audio processing
- • Embedded engineering
+#### Technical Proficiency
+ • Swift, C++, C, TypeScript, Rust, Python
 
-Technical Proficiency
- • Languages: Swift, C++, C, TypeScript, Rust, Python
- • Tools & Technologies: SwiftUI, UIKit, OpenCV, PyTorch, NodeJS, Docker, Linux
- • Specializations: Mobile development, web development, computer vision, audio processing, embedded
+ • SwiftUI, UIKit, React, OpenCV, PyTorch, nodeJS, Docker, Linux
 
-Professional Highlights
-Mercury Intermedia
- • Led the iOS development for Comcast's Design Kit, engineered UI components and data visualizations for the Xfinity app.
- • Developed a data usage chart for Xfinity. Directly designed the axis scaling user experience and behavior.
-ECom
- • Designed and developed a laboratory furniture configurator for sales representatives within the industry.
- • Built an Analytics dashboard, with full stack technologies (React, nodeJS), for sales & marketing. Easily slice and visualize data points for sales insights.
+#### Professional Highlights @ Mercury Intermedia
+ • Led the iOS implementation of a cross-platform UI design kit for Comcast, ensuring seamless integration and consistency across devices.
 
-Innovative Projects
+ • Collaborated with design teams to deliver intuitive UI components, focusing on enhancing app usability and visual appeal. My role involved translating design concepts into functional, user-friendly iOS components within the Xfinity app.
+
+ • Implemented innovative data visualization components, such as a dynamic bar chart for iOS users within the Xfinity app. This feature allowed users to gain better insights into their data usage and billing, enhancing their ability to manage services effectively.
+
+ • Directed the migration of key UI components across more than 19 repositories, ensuring smooth integration and functionality. My efforts facilitated consistent UI experiences across applications and contributed to system-wide enhancements.
+
+#### Innovative Projects
  • Undertones.ai: A cutting-edge app that leverages deep learning for music stem separation. (www.undertones.ai)
+
  • Music Matrix: An electronic art piece for album artwork, with streaming service support. (A project spanning: hardware, mobile application, and backend development.)
 
-Future Goals
+#### Future Goals
 He is driven by a desire to further explore app development and AI, especially within the Apple platforms. 
 
-Collaborative Spirit
+#### Collaborative Spirit
 Beyond his technical achievements, Hayden values mentorship and collaboration. He is dedicated to sharing his knowledge with emerging engineers, fostering an environment of growth and innovation.
 
 <!--
