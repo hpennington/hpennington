@@ -4,9 +4,9 @@
 
 [Portfolio Website](https://haydenpennington.tech)
 
-[UndertonesAI](https://www.undertones.ai)
+[Inertia Graphics](https://www.inertia.graphics)
 
-[Graphnote](https://www.graphnote.app)
+[Resilient Docs](https://www.resilientdocs.com)
 
 - iOS Engineer, market-ready specialist
 - Thrives on developing impactful, long-lasting technology
