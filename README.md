@@ -4,6 +4,8 @@
 
 [Portfolio Website](https://haydenpennington.tech)
 
+[ScratchTrack Studio](https://scratchtrackstudio.com)
+
 [Resilient Docs](https://www.resilientdocs.com)
 
 [The Jazzbox](https://www.jazzbox.io)
