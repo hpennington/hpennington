@@ -4,8 +4,6 @@
 
 [Portfolio Website](https://haydenpennington.tech)
 
-[Inertia Graphics](https://www.inertia.graphics)
-
 [Resilient Docs](https://www.resilientdocs.com)
 
 [The Jazzbox](https://www.jazzbox.io)
